@@ -17,7 +17,7 @@ Entre os principais tópicos abordados até então, destacaria:
 
 O resultado é a página que segue, que pode ser acessada por **[esse link](https://projeto-aprendendo-html-css-responsividade.vercel.app/)**. Foi hospedada usando a **[Vercel](https://vercel.com/)**, uma plataforma americana de nuvem que permite hospedar projetos sem custo. 
 
-Um primeiro projeto simples mas que já aborda muitas dos conhecimentos mais importantes para desenvolvimento web.
+Um primeiro projeto simples mas que já aborda muitos dos conhecimentos mais importantes para o Desenvolvimento Web.
 
 Agradeço à Escola Alura e as pessoas instrutoras pela excelente introdução que permite até aos mais leigos (como eu) aprenderem com facilidade Desenvolvimento Web. :)
 
